@@ -21,11 +21,11 @@ role: Robotics Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Honda Research Institute USA
+    url: https://usa.honda-ri.com/research
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a robotics research engineer at Honda Research Institute in San Jose, specializing in pose estimation for manipulation and grasping, with a focus on tactile sensing. I did my Masters in Robotics at Worcester Polytechnic Institute (WPI), where I was advised by Berk Calli.
 
 # Interests to show in About widget
 interests:
